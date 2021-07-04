@@ -1,6 +1,6 @@
 # Public Beta Testing Release:
 
-[CLick Here](https://github.com/MODDED-OFFICIAL/extracolors/releases/tag/v1.2) To go to the Pre-Release release
+[Click Here](https://github.com/MODDED-OFFICIAL/extracolors/releases/tag/v1.2) To go to the Pre-Release release
 
 # What does this mod do?
 + It adds a lot more colors to Among Us
