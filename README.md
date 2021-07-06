@@ -8,10 +8,10 @@
 # Suggestions?
 + Go to [Discussions](https://github.com/MODDED-OFFICIAL/extracolors/discussions) and make a new 
 Color Suggestion discussion and it might be added!
-+ ONLY SUPPORTS COLOR HEXES WITH NO LETTERS EXAMPLE:
++ ONLY SUPPORTS COLOR RGB CODES:
 
-#fcba03 WILL NOT WORK
+RGB (Red, Green, Blue)
 
-#000000 WILL WORK
+Example: 255, 50, 0
 
 + Please don't post spam or any off topic things for this category.
