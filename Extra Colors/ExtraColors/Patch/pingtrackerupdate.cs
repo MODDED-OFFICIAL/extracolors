@@ -18,7 +18,7 @@ namespace ExtraColors.Patch {
 
                     lastDist = aspect.DistanceFromEdge;
                 }
-                __instance.text.text += $"\n<color=#2294E6FF>ExtraColors by Boss_GamerYT#0001</color> \nThanks for downloading!";
+                __instance.text.text += $"\n<color=#2294E6FF>ExtraColors by Boss_GamerYT#0097</color> \nThanks for downloading!";
             }
         }
     }
