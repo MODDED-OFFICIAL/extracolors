@@ -3,7 +3,7 @@
 
 # Requirements?
 
-+ Among Us V2021.6.15s on steam
++ Among Us V2021.6.30s or V2021.6.15s on steam
 
 # Suggestions?
 + Go to [Discussions](https://github.com/MODDED-OFFICIAL/extracolors/discussions) and make a new 
