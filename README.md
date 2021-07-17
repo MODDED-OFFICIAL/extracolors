@@ -16,6 +16,10 @@ Example: 255, 50, 0
 
 + Please don't post spam or any off topic things for this category.
 
+# How to add your own colours:
+Tutorial Soon!
+
+
 ---
 
 This mod is not affiliated with Among Us or Innersloth LLC, and the content contained therein is not endorsed or otherwise sponsored by Innersloth LLC. Portions of the materials contained herein are property of Innersloth LLC. © Innersloth LLC.
